@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+  }
+  
+  .navbar {
+    background-color: #e84a27;
+    padding: 10px 0;
+  }
+  
+  .navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-section {
+    display: flex;
+  }
+  
+  .nav-item {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 15px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .nav-item:hover {
+    color: #fff;
+  }
+  
