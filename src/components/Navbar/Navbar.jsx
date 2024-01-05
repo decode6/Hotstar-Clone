@@ -3,7 +3,7 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <>
-    {/* added  */}
+    {/* add */}
       <nav className="navbar">
         <div className="navbar-container">
           <div className="navbar-section">
